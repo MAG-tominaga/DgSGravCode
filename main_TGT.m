@@ -1,6 +1,5 @@
 %% dgs data QA on R/V Thompson
 % input data file format preference:
-% DGS: .dat file
 % Data folders structure:
 % DGS Proc:     Ship/Cruise/gravimeter/DGS
 % DGS serial:   Ship/Cruise/gravimeter/DGS/serial
