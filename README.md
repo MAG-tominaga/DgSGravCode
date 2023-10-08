@@ -11,3 +11,5 @@ Data are REQUIRED to store in the following tree
 
 Each ship has her own main script because of different data format. TWO parameters will need to be updated for each cruise: (1) path to the data files, and (2) meter bias (gravity tie).
 
+Any question please contact jzhu@whoi.edu
+
